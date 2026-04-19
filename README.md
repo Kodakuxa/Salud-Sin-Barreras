@@ -159,21 +159,13 @@ Descripción breve de las carpetas principales:
 
 ## Capturas y recursos
 
-- Logos y activos: `frontend/assets/logo.jpg` y `frontend/public/logo.jpg`.
-- Si quieres añadir capturas de pantalla al README, sube las imágenes en `frontend/public` y referencia la ruta en este archivo.
-
----
-
-## Notas finales
-
-- El proyecto viene con semillas para pacientes, doctores y expedientes (si se detecta falta de datos). Revisa `backend/db.sql` y los scripts PHP si necesitas personalizar los datos iniciales.
-- Si vas a desplegar en producción: no uses `root` sin contraseña en la base de datos, protege `conexion.php` y configura CORS/SSL según correspondan.
-
----
-
-Si quieres, puedo:
-
-- Añadir capturas de pantalla al README usando las imágenes del repositorio.
-- Ajustar instrucciones para Linux/macOS.
-- Crear un archivo `requirements-frontend.txt` o `package-lock.json` con dependencias exactas.
-"# tareas-practicas-Kodakuxa" 
+- Login:
+<img width="1869" height="893" alt="image" src="https://github.com/user-attachments/assets/38671c76-5a8a-4921-8c0e-fe9abc90ccba" />
+- Registro:
+<img width="1877" height="903" alt="image" src="https://github.com/user-attachments/assets/b97d371f-e9d9-4027-80e8-e109e80ba55d" />
+- Dashboard de pacientes:
+<img width="1868" height="899" alt="image" src="https://github.com/user-attachments/assets/4d9e2b14-26bd-4a70-9ed8-98d80dd655b0" />
+- Historial de pacientes:
+<img width="1860" height="894" alt="image" src="https://github.com/user-attachments/assets/c8227726-319c-4368-bdf8-ee0480780570" />
+- Imprimir expediente de paciente:
+<img width="622" height="776" alt="image" src="https://github.com/user-attachments/assets/31626e33-1d7f-41d1-abec-8d034ac6a318" />
