@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	overflow: hidden;
+}
+
+/* Hide text caret in non-editable UI zones to avoid visual cursor artifacts. */
+*:not(input):not(textarea):not(select):not([contenteditable="true"]) {
+	caret-color: transparent;
+}
